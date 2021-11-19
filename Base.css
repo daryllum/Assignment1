@@ -1,0 +1,33 @@
+/*Landing page css file*/
+body {
+    background-color: #FF69B4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+#one {
+    background-color: grey;
+    float: left;
+    width: 55%;
+    
+}
+
+#two {
+    background-color: cyan;
+    float: right;
+    width: 40%;
+}
+
+#three {
+    background-color: mediumaquamarine;
+    float: right;
+    width: 40%;
+}
+
+#four {
+    background-color: #C8A2C8;
+    float: right;
+    width: 40%;
+}
