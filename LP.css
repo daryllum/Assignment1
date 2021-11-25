@@ -1,0 +1,47 @@
+#one {
+    background-color: #AFAFB1;
+    float: left;
+    width: 55%;
+    text-align: center;   
+}
+
+#two {
+    background-color: #89CFF0;
+    float: right;
+    width: 40%;
+}
+
+#three {
+    background-color: #3EB489;
+    float: right;
+    width: 40%;
+}
+
+#four {
+    background-color: #C8A2C8;
+    float: right;
+    width: 40%;
+}
+
+.intro {
+    
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.flex-container{
+    background-color: #AFAFB1 ;
+    max-width: 800px;
+    max-height: 500px;
+    position: relative;
+    top: 20px;
+}
+
+.image{
+    position: relative;
+    left: 400px;
+    bottom: 50px;
+}
