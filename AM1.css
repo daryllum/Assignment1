@@ -1,0 +1,78 @@
+/*About me 1 & Skills css*/
+.flex-item1 {
+    position: relative;
+    list-style-type: none;
+    top: 10px;
+    left: 150px;
+
+}
+.flex-container{
+    background-color: #89CFF0 ;
+    max-width: 600px;
+    max-height: 700px;
+    position: relative;
+    top: 20px;
+    font-size: 17px;
+    border: 1px #000 solid;
+}
+.flex-container2{
+    background-color: #89CFF0 ;
+    max-width: 600px;
+    max-height: 300px;
+    position: relative;
+    left: 700px;
+    bottom: 520px;
+    font-size: 17px;
+    border: 1px #000 solid;
+    padding-bottom: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 18px;
+}
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.flex-item2{
+    position: relative;
+    left: 130px;
+    bottom: 235px;
+    list-style-type: none;
+}
+
+.flex-item3{
+    position: relative;
+    left: 165px;
+    bottom: 247px;
+    list-style-type: none;
+}
+
+.flex-item4{
+    position: relative;
+    left: 70px;
+    bottom: 260px;
+    list-style-type: none;
+}
+
+.flex-item5{
+    position: relative;
+    left: 90px;
+    bottom: 265px;
+    list-style-type: none;
+}
+
+.flex-item6{
+    position: relative;
+    left: 120px;
+    bottom: 275px;
+    list-style-type: none;
+}
+
+.flex-item7{
+    position: relative;
+    left: 205px;
+    bottom: 290px;
+    list-style-type: none;
+}
