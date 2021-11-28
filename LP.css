@@ -16,7 +16,7 @@ h4 {
 .flex-container{
     background-color: #AFAFB1 ;
     max-width: 800px;
-    max-height: 500px;
+    max-height: 430px;
     position: relative;
     top: 20px;
     font-size: 17px;
@@ -40,4 +40,28 @@ h4 {
     left: 120px;
     bottom: 415px;
     list-style-type: none;
+}
+.flex-container2{
+    background-color: #FF69B4;
+    max-width: 400px;
+    max-height: 400px;
+    position: relative;
+    left: 900px;
+    bottom: 440px;
+    list-style-type: none;
+}
+.flex-container3{
+    background-color: #FF69B4;
+    max-width: 100px;
+    max-height: 100px;
+    position: relative;
+    left: 900px;
+    bottom: 1080px;
+}
+.flex-item5{
+    left: 80px;
+    list-style-type: none;
+}
+h5{
+    font-size: 25px;
 }
