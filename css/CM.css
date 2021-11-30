@@ -1,10 +1,11 @@
+/*Contact me css*/
+/*flex container for my information*/
 .flex-container1{
     background-color: #C8A2C8;
     max-width: 500px;
     max-height: 350px;
     position: relative;
     top: 75px;
-
     font-size: 17px;
     border: 1px #000 solid;
     padding-left: 15px;
@@ -16,6 +17,7 @@ h4{
 p{
     font-size: 20px;
 }
+/* Images for contact me*/
 .flex-item1{
     position: relative;
     bottom: 155px;
@@ -28,7 +30,7 @@ p{
     left: 400px;
     list-style-type: none;
 }
-/* Feedback  form */
+/* Feedback form */
 div#form {
     position: relative;
     width: 50%;

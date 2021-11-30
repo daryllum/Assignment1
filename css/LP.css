@@ -1,18 +1,20 @@
-
+/*Landing page css*/
+/*To introduce myself*/
 .intro {
     
     font-size: 30px;
 }
-
+/* Place a title */
 h1 {
     font-size: 40px;
 }
+/* Title for about myself*/
 h4 {
     font-size: 20px;
     
 }
 
-
+/*Create flex container for text*/
 .flex-container{
     background-color: #AFAFB1 ;
     max-width: 800px;
@@ -21,7 +23,7 @@ h4 {
     top: 20px;
     font-size: 17px;
 }
-
+/*Position my images*/
 .flex-item1{
     position: relative;
     left: 100px;
@@ -41,6 +43,7 @@ h4 {
     bottom: 415px;
     list-style-type: none;
 }
+/* to position the image of myself*/
 .flex-container2{
     background-color: #FF69B4;
     max-width: 400px;
@@ -50,6 +53,7 @@ h4 {
     bottom: 440px;
     list-style-type: none;
 }
+/*to position the arrow*/
 .flex-container3{
     background-color: #FF69B4;
     max-width: 100px;
@@ -58,10 +62,12 @@ h4 {
     left: 900px;
     bottom: 1080px;
 }
+/* position the arrow pointing to the image of myself*/
 .flex-item5{
     left: 80px;
     list-style-type: none;
 }
+
 h5{
     font-size: 25px;
 }

@@ -1,12 +1,15 @@
-/*Landing page css file*/
+/*base css file for all pages*/
+/*Background colour and font for all pages*/
 body {
     background-color: #FF69B4;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
+/*aligns all titles*/
 .title {
     text-align: center;
 }
+/* Navigation bar*/
 .sidenav {
     height: 100%;
     width: 100px; /* Set the width of the sidebar */
