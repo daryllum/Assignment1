@@ -5,8 +5,9 @@
     list-style-type: none;
     top: 10px;
     left: 150px;
-/* flex container for before Polytechnic*/
 }
+/* flex container for before Polytechnic*/
+
 .flex-container{
     background-color: #89CFF0 ;
     max-width: 600px;
@@ -78,4 +79,79 @@ p{
     left: 205px;
     bottom: 290px;
     list-style-type: none;
+}
+
+@media screen and (max-width: 576px) {
+    .flex-container{
+        background-color: #89CFF0 ;
+        max-width: 600px;
+        max-height: 500px;
+        position: relative;
+        top: 20px;
+        left: 150px;
+        font-size: 11px;
+        border: 1px #000 solid;
+    }
+
+    .flex-container2{
+        background-color: #89CFF0 ;
+        max-width: 600px;
+        max-height: 420px;
+        position: relative;
+        left: 0px;
+        top: 10px;
+        font-size: 20px;
+        border: 1px #000 solid;
+        padding-bottom: 30px;
+    }
+
+    .flex-item1 {
+        position: relative;
+        list-style-type: none;
+        top: 0px;
+        left: 150px;
+       
+    }
+
+    .flex-item2{
+        position: relative;
+        left: 155px;
+        bottom: 277px;
+        list-style-type: none;
+    }
+    
+    .flex-item3{
+        position: relative;
+        left: 205px;
+        bottom: 280px;
+        list-style-type: none;
+    }
+    
+    .flex-item4{
+        position: relative;
+        left: 85px;
+        bottom: 287px;
+        list-style-type: none;
+    }
+    
+    .flex-item5{
+        position: relative;
+        left: 105px;
+        bottom: 285px;
+        list-style-type: none;
+    }
+    
+    .flex-item6{
+        position: relative;
+        left: 140px;
+        bottom: 290px;
+        list-style-type: none;
+    }
+    
+    .flex-item7{
+        position: relative;
+        left: 245px;
+        bottom: 295px;
+        list-style-type: none;
+    }
 }

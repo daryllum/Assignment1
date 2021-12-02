@@ -34,7 +34,7 @@ p{
 div#form {
     position: relative;
     width: 50%;
-    height: 625px;
+    height: 725px;
     background-color: #C8A2C8;
     clear: both;
     border-radius: 25px;
@@ -127,3 +127,58 @@ button {
      left: 200px;
 
  }
+
+#error {
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 576px) {
+    .flex-container1{
+        background-color: #C8A2C8;
+        max-width: 500px;
+        max-height: 300px;
+        position: relative;
+        top: 50px;
+        left: 150px;
+        font-size: 7px;
+        border: 1px #000 solid;
+        padding-left: 15px;
+        
+    }
+
+    h2 {
+        position: relative;
+        top: 50px;
+        right: 350px;
+        font-size: 20px;
+    }
+
+    div#form {
+        position: relative;
+        width: 700px;
+        height: 725px;
+        background-color: #C8A2C8;
+        clear: both;
+        border-radius: 25px;
+        border: 4px dotted rgb(0, 0, 167);
+        left: 140px;
+        top: 50px;
+    }
+
+    .title {
+        position: relative;
+        left: 190px;
+    }
+
+    .feedback textarea {
+        padding-left: 0%;
+        width: 80%;
+        resize: none;
+    }
+
+    
+    
+}
