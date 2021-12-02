@@ -40,32 +40,3 @@ form.addEventListener('submit', (e) => {
     }
 
 })
-/*form.addEventListener('submit', (e) => {
-    e.preventDefault()
-
-    checkInputs()
-})
-
-function checkInputs() {
-    const firstnameValue = firstname.value.trim()
-    const lastnameValue = lastname.value.trim()
-    const emailValue = email.value.trim()
-    const phoneValue = phone.value.trim()
-    const feedbackValue = feedback.value.trim()
-
-    if(firstnameValue === '') {
-        setError(firstname, 'First Name cannot be blank')
-    } else {
-        setSuccess(firstname)
-    }
-}
-
-function setError(input, message) {
-    const formCtrl = input.parentElement
-    const small = formCtrl.querySelector('small')
-
-    small.innerText = message
-
-    formCtrl.className = 'form-'
-}
-*/

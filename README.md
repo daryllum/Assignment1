@@ -114,6 +114,8 @@ Microsoft Paint - I used to it draw the different icons like Word and Powerpoint
 
 
 Testing
+My feedback form has all the necessary errors shown when a certain area of the form is not filed up and it works the way that I had planned it to work.
+My project is simplistic and easy to understand without any very distracting factors, it is always very easy and convienient to use with the navigation bar on the side to guide the user to the different pages available, there is even a feedback form for the user to fill up their personal information and feedback about my project. The project also works on mobile and it is displayed properly without any errors. 
 
 
 Credits
